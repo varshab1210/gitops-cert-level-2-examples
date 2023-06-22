@@ -29,7 +29,7 @@ spec:
     namespace: example02
     jsonPointers:
     - /metadata/annotations/creation
-  - group: apps
+  - group: ""
     kind: Secret
     name: example-secret
     namespace: example02
